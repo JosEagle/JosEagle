@@ -11,7 +11,9 @@
 
 ### Connect with me:
 
-<!-- Ajoute ici tes liens : LinkedIn, email professionnel, etc. -->
+ngamouejoscarvy@gmail.com
+[www.linkedin.com/in/patience-joscarvy-ngamoue-matondo-175555240](https://www.linkedin.com/in/patience-joscarvy-ngamoue-matondo-175555240)
+(+242)053707337/ 066077591
 
 ### Compétences & outils :
 
