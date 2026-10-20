@@ -88,6 +88,38 @@ Conception et mise en place d'une solution numérique destinée à améliorer la
 
 *Les détails techniques et les démonstrations seront publiés selon les contraintes de confidentialité applicables.*
 
+### 🌐 IESC — Site web institutionnel
+
+**Conception et développement du site web de l'Institut d'Enseignement Supérieur du Congo (IESC), à Brazzaville.**
+
+🔗 **Site en ligne :** [https://www.iesc-cg.net](https://www.iesc-cg.net)
+
+**Technologies utilisées :**
+
+![React](https://img.shields.io/badge/React_JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Principales fonctionnalités et caractéristiques :**
+- Présentation institutionnelle de l'établissement et de sa vision.
+- Mise en valeur des formations, filières et débouchés professionnels.
+- Présentation des admissions et des informations destinées aux candidats.
+- Valorisation des actualités et de la vie étudiante.
+- Interface utilisateur moderne et structurée.
+- Organisation des contenus pour faciliter la navigation des visiteurs.
+
+**Objectif du projet :**
+
+Renforcer la présence numérique de l'établissement, valoriser son offre de formation et faciliter l'accès aux informations pour les étudiants, les candidats et les partenaires.
+
+**Rôle :** Conception et développement web.
+
+**Démonstration :** [Visiter le site officiel de l'IESC](https://www.iesc-cg.net/)
+
+---
+
 ### 💳 Innovation numérique & FinTech en Afrique
 
 Exploration de solutions technologiques autour de la digitalisation des services financiers, de l'interopérabilité des paiements et de la modernisation des infrastructures numériques.
