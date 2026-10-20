@@ -1,24 +1,136 @@
-# Salut 👋, je suis NGAMOUE MATONDO Patience Joscarvy
+# 👋 Bonjour, je suis Patience Joscarvy NGAMOUE MATONDO
 
-### 🎓 Ingénieur en Génie Numérique
+### Ingénieur en Génie Numérique | Développeur de Systèmes d’Information | IT & FinTech
 
-- 🖥️ Je conçois et déploie des infrastructures serveur (virtualisation, Active Directory, pare-feu, sauvegarde) pour des projets à fort enjeu
-- 🗄️ J'administre des bases de données relationnelles et NoSQL (MySQL/PostgreSQL, MongoDB, Redis)
-- 💻 Je conçois et développe des systèmes d'information (applications de gestion, modules métier) adaptés aux besoins des organisations
-- 🕵️ J'audite des systèmes et réseaux avec des outils comme Nmap, OpenVAS, Wireshark et Metasploit
-- 📚 Je forme la prochaine génération d'informaticiens en tant qu'enseignant universitaire
-- 🌍 Basé à Brazzaville, Congo
+Passionné par les technologies numériques, le développement logiciel et les infrastructures informatiques, je conçois et développe des solutions numériques visant à répondre aux besoins des entreprises, des administrations et des utilisateurs.
 
-### Connect with me:
+Mon approche combine **développement d'applications, gestion des données, administration des systèmes, sécurité informatique et innovation FinTech**.
 
-ngamouejoscarvy@gmail.com
-[www.linkedin.com/in/patience-joscarvy-ngamoue-matondo-175555240](https://www.linkedin.com/in/patience-joscarvy-ngamoue-matondo-175555240)
-(+242)053707337/ 066077591
+Basé au **Congo-Brazzaville**, je m'intéresse particulièrement à la transformation numérique, à la modernisation des systèmes d'information et au développement de solutions technologiques adaptées aux réalités africaines.
 
-### Compétences & outils :
+---
 
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu server" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> <img src="https://camo.githubusercontent.com/830ab0a04d79ea91499fd105d265e582bf1e2cdb51a678ba28ee8dfd5031d19b/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" alt="trello" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/notion/notion-original.svg" alt="notion" width="40" height="40"/>
-</p>
+## 🚀 À propos de moi
 
-**Outils de sécurité :** Nmap · OpenVAS · Wireshark · Metasploit
+- 💻 Conception et développement de systèmes d'information.
+- 🌐 Développement d'applications web et mobiles.
+- 🗄️ Conception, administration et exploitation de bases de données.
+- 🐧 Administration des systèmes Linux et des infrastructures IT.
+- 🔐 Sécurité informatique, gestion des accès et sécurisation des services.
+- 💳 Innovation FinTech, systèmes de paiement et services numériques.
+- 📊 Structuration, qualité et valorisation des données.
+- 🏗️ Mise en place de solutions numériques pour les entreprises et les administrations.
+
+🎯 **Ma vision :** mettre la technologie au service de la performance, de la sécurité et de la transformation numérique en Afrique.
+
+---
+
+## 🛠️ Technologies & compétences
+
+### Développement logiciel
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Développement web
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+### Bases de données
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Systèmes, infrastructure & DevOps
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+*Les technologies présentées correspondent à mes domaines de travail et d'intérêt. Leur maîtrise varie selon les outils et les projets.*
+
+---
+
+## 💼 Projets & réalisations
+
+### 🏦 KongoPay — Laboratoire d'infrastructure IT FinTech
+
+Projet pratique visant à simuler une infrastructure informatique d'entreprise inspirée des exigences d'un environnement FinTech.
+
+**Axes de travail :**
+- Administration et sécurisation d'un serveur Ubuntu.
+- Gestion des utilisateurs, groupes et permissions Linux.
+- Configuration et sécurisation des accès SSH.
+- Déploiement de services web et de bases de données.
+- Conteneurisation avec Docker.
+- Supervision de l'infrastructure avec Prometheus et Grafana.
+- Documentation des procédures d'administration et de sécurité.
+
+### 🏛️ Système de gestion des titres fonciers et du domaine public
+
+Conception et mise en place d'une solution numérique destinée à améliorer la gestion des informations foncières et du domaine public dans le contexte congolais.
+
+**Objectifs :**
+- Centraliser et structurer les informations.
+- Faciliter la recherche et le suivi des dossiers.
+- Améliorer la traçabilité et l'exploitation des données.
+- Contribuer à la modernisation des processus administratifs.
+
+*Les détails techniques et les démonstrations seront publiés selon les contraintes de confidentialité applicables.*
+
+### 💳 Innovation numérique & FinTech en Afrique
+
+Exploration de solutions technologiques autour de la digitalisation des services financiers, de l'interopérabilité des paiements et de la modernisation des infrastructures numériques.
+
+**Centres d'intérêt :**
+- Interopérabilité des services de paiement mobile.
+- API et architectures backend.
+- Sécurité des transactions et des échanges de données.
+- Services numériques accessibles et adaptés au marché africain.
+
+---
+
+## 📚 Ce que je développe actuellement
+
+- Approfondissement de l'administration Linux et de la sécurité des infrastructures.
+- Développement d'applications avec Java, Python et Flutter.
+- Conception d'architectures backend et d'API REST.
+- Automatisation, conteneurisation et supervision des services IT.
+- Exploration de nouvelles architectures pour les systèmes d'information et les services FinTech.
+
+---
+
+## 🤝 Collaborations
+
+Je suis ouvert aux échanges professionnels, aux collaborations techniques et aux projets portant sur :
+
+- Le développement logiciel et les systèmes d'information.
+- L'administration systèmes et infrastructures IT.
+- La cybersécurité et la fiabilité des services numériques.
+- La transformation numérique des entreprises et des administrations.
+- L'innovation technologique et la FinTech en Afrique.
+
+---
+
+## 📫 Me contacter
+
+- **GitHub :** [Découvrir mes dépôts](https://github.com/)
+- **LinkedIn :** [Retrouver mon profil professionnel](https://www.linkedin.com/)
+
+*Remplace ces liens génériques par les URL exactes de tes profils avant publication.*
+
+---
+
+> **Construire des solutions utiles, sécuriser les systèmes et faire du numérique un levier de développement pour l'Afrique.**
+
+⭐ Merci de visiter mon profil GitHub. N'hésitez pas à explorer mes projets et à échanger avec moi !
